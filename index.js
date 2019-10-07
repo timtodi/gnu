@@ -1,1 +1,1 @@
-console.log("Hello world ich hab ne kleine Schwester!")
+console.log("Hello world Kenny hat ein kleinen!")
